@@ -7,4 +7,8 @@ Github &amp; Git Event 2024
 Learn by contribute by putting ur profile stats card
 
 
+#aditya
+=======
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevendraRaj58&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akm6872&show_icons=true)
